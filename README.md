@@ -99,4 +99,18 @@ Through this project, I practiced:
 
 - Integrate a database to store customer and order details.
 - Develop a graphical user interface or web application.
--
+- Add customer login and registration.
+- Implement online payment integration.
+- Provide live order tracking.
+- Add restaurant ratings and customer reviews.
+
+## 👩‍💻 Author
+
+**Shraddha Kumbhar**
+
+Aspiring Data Analyst | Python | SQL | Power BI
+
+---
+
+⭐ If you find this project interesting, feel free to explore the repository.
+
